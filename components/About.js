@@ -18,7 +18,7 @@ const bio = [
     id: 12,
     data: [
       { id: 6, type: "Direccion", value: "Santo Domingo, RD" },
-      { id: 7, type: "Telefono", value: "809 747 1803" },
+      { id: 7, type: "Telefono", value: "849 531 1924" },
       { id: 8, type: "Email", value: "acarrascocesa@gmail.com" },
       { id: 10, type: "Idiomas", value: "Español, Ingles" },
     ],
@@ -34,7 +34,7 @@ const counters = [
   {
     id: 2,
     title: 'completedos <span className="block">proyectos</span>',
-    value: "30",
+    value: "20",
   },
   // {
   //   id: 3,
